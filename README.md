@@ -1,7 +1,8 @@
-### Hi there 👋
-
+  
+![Alt Text](https://64.media.tumblr.com/7ab7b1929011461854d0821616c8b408/3da94155a8d0d7da-e1/s400x600/20946cad6a495e1f3833aac241decec16f7d4889.gifv)
 <!--
-**leo-dh/leo-dh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+### Hi there 👋
 
 Here are some ideas to get you started:
 
