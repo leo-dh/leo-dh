@@ -1,5 +1,4 @@
   
-![Alt Text](https://64.media.tumblr.com/7ab7b1929011461854d0821616c8b408/3da94155a8d0d7da-e1/s400x600/20946cad6a495e1f3833aac241decec16f7d4889.gifv)
 <!--
 
 ### Hi there 👋
